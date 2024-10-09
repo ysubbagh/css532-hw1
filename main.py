@@ -1,3 +1,8 @@
+#  HW1 - CSS 532
+#   Yasmine Subbagh
+# part 1 and 2 and 3
+
+
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: Apache-2.0.
 
